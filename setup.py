@@ -10,9 +10,7 @@ setup(
     url='https://github.com/Noxtal/palindromicprimes/',
     download_url='https://github.com/Noxtal/palindromicprimes/archive/1.0.0.tar.gz',
     keywords=['primes', 'palindromes', 'numbers'],
-    install_requires=[            # I get to this in a second
-        'functools',
-    ],
+    install_requires=[],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
