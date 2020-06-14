@@ -8,7 +8,7 @@ setup(
     author='Noxtal',
     author_email='contact.noxtal@gmail.com',
     url='https://github.com/Noxtal/palindromicprimes/',
-    download_url='https://github.com/Noxtal/palindromicprimes/archive/1.0.0.tar.gz',
+    download_url='https://github.com/Noxtal/palindromicprimes/archive/1.0.1.zip',
     keywords=['primes', 'palindromes', 'numbers'],
     install_requires=[],
     classifiers=[
