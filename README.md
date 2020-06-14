@@ -16,7 +16,7 @@ import palindromicprimes as palprimes
 print(palprimes.nthPalindromicPrime(10))
 ```
 
-Find the nearest palindromic prime to a number:
+Find the lowest nearest palindromic prime to a number:
 ```python
 import palindromicprimes as palprimes
 
