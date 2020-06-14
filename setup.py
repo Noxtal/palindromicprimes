@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
     name='palindromicprimes',
     packages=['palindromicprimes'],
-    version='1.0.0',
+    version='1.0.1',
     license='MIT',
     description='Python library to search through palindromic primes. Based on the A002385 number set. Created for the NahamCon CTF 2020.',
     author='Noxtal',
